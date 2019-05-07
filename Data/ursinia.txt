@@ -1,0 +1,541 @@
+occurrenceID	countryCode	declat	declong	elev	depth
+MK481805	ZA	-30.2	17.97		
+MK481589	ZA	-30.2	17.97		
+MK465209	ZA	-30.2	17.97		
+MK465294	ZA	-30.2	17.97		
+MK465325	ZA	-30.2	17.97		
+MK465295	ZA	-30.2	17.97		
+MK465324	ZA	-30.2	17.97		
+MK481669	ZA	-30.2	17.97		
+MK465208	ZA	-30.2	17.97		
+https://www.inaturalist.org/observations/19469621	ZA	-33.90917	19.157875		
+urn:catalog:SANBI:PRE0859665-0	ZA	-32.875	18.875		
+urn:catalog:SANBI:NBG0272828-0	ZA	-32.897778	19.641667		
+urn:catalog:SANBI:PRE0862629-0	ZA	-32.126667	20.097222		
+urn:catalog:SANBI:NBG0276761-0	ZA	-33.564444	18.833611		
+urn:catalog:SANBI:NBG0278200-0	ZA	-32.875	19.625		
+urn:catalog:SANBI:NBG0279009-0	ZA	-31.410556	19.038056		
+https://www.inaturalist.org/observations/11293415	ZA	-32.317	19.208		
+https://www.inaturalist.org/observations/11182591	ZA	-33.571	18.3224		
+https://www.inaturalist.org/observations/11088578	ZA	-33.360313	19.298675		
+https://www.inaturalist.org/observations/11041377	ZA	-33.30803	19.64453		
+60ff6b56-20fe-11e3-9e2e-000c29035824	ZA	-34.5561	20.8675		
+5a611d92-20fe-11e3-9e2e-000c29035824	ZA	-34.1519	24.8189		
+55682693-7f29-4844-853a-5b1f988c78f7	ZA	-34.162917	24.830517	85	
+https://www.inaturalist.org/observations/16545357	ZA	-32.348197	18.738098		
+https://www.inaturalist.org/observations/16355391	ZA	-32.425744	18.961072		
+http://data.biodiversitydata.nl/naturalis/specimen/L.1595102	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/L.1595104	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/L.1595120	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/L.1595119	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/L.1595111	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/L.1595101	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/L.1595113	ZA				
+cf284072-fdbd-4631-8a2d-47dcce81b0bd	ZA				
+TAA0127575	ZA				
+https://www.inaturalist.org/observations/10912116	ZA	-33.622415	19.475668		
+https://www.inaturalist.org/observations/13074241	ZA	-31.803677	19.171679		
+509b0c75-12db-462d-bc40-9deefda652be	ZA	-33.4	19.183333	1066	
+http://www.botanicalcollections.be/specimen/BR0000014939907	ZA				
+http://www.botanicalcollections.be/specimen/BR0000014939884	ZA				
+http://www.botanicalcollections.be/specimen/BR0000014939877	ZA				
+http://www.botanicalcollections.be/specimen/BR0000014939860	ZA				
+http://www.botanicalcollections.be/specimen/BR0000014939853	ZA				
+http://www.botanicalcollections.be/specimen/BR0000014939846	ZA				
+http://www.botanicalcollections.be/specimen/BR0000014939839	ZA				
+http://www.botanicalcollections.be/specimen/BR0000014939822	ZA				
+http://www.botanicalcollections.be/specimen/BR0000014939815	ZA				
+http://www.botanicalcollections.be/specimen/BR0000014939808	ZA				
+http://www.botanicalcollections.be/specimen/BR0000014939792	ZA				
+http://www.botanicalcollections.be/specimen/BR0000009746633	ZA				
+https://www.inaturalist.org/observations/11306539	ZA	-34.03586	23.38256		
+https://www.inaturalist.org/observations/11292624	ZA	-33.428079	18.879507		
+https://www.inaturalist.org/observations/11193363	ZA	-34.091577	18.422857		
+https://www.inaturalist.org/observations/11127582	ZA	-34.00842	18.48783		
+https://www.inaturalist.org/observations/11112644	ZA	-33.87581	19.04775		
+https://www.inaturalist.org/observations/11111426	ZA	-33.87581	19.04775		
+https://www.inaturalist.org/observations/11088846	ZA	-34.35077	20.31687		
+https://www.inaturalist.org/observations/10882323	ZA	-33.98583	22.73664		
+https://www.inaturalist.org/observations/10852564	ZA	-33.92935	19.878157		
+https://www.inaturalist.org/observations/10849217	ZA	-33.4945	22.5376		
+https://www.inaturalist.org/observations/10847389	ZA	-33.59722	19.8681		
+https://www.inaturalist.org/observations/10794391	ZA	-33.98614	22.73581		
+	ZA	-33.115341	17.99419		
+	ZA			305	
+	ZA				
+	ZA				
+	ZA				
+	ZA	-33.371944	18.40317		
+http://n2t.net/ark:/65665/3fe489a27-80d6-4792-a612-13450bd1490d	ZA				
+http://n2t.net/ark:/65665/3fd52e700-de3e-4601-b288-cf3f2989c9c3	ZA			1676.5	
+http://n2t.net/ark:/65665/3f5ee9dad-d53a-4564-b4dc-02cfaa4e2ce3	ZA				
+http://n2t.net/ark:/65665/3b53870c1-7c5b-43d6-8544-15d7e51519d3	ZA				
+http://n2t.net/ark:/65665/399c75ffd-a743-46b9-afd9-f3ee18b637e7	ZA			457	
+http://n2t.net/ark:/65665/351a09011-32df-40da-9930-e09c0adeba84	ZA			520	
+http://n2t.net/ark:/65665/3414432bf-e774-4bc1-b8e1-a2f7f819213d	ZA				
+http://n2t.net/ark:/65665/339c3ae89-a82f-44f7-8358-910a73464b54	ZA	-32.1092	20.1253	1264	
+http://n2t.net/ark:/65665/32618987c-d7a2-441d-b695-3dec0cf8d07f	ZA				
+	ZA	-34.090797	18.421139		
+http://n2t.net/ark:/65665/3cefacca7-281f-4134-bfe6-6cb06d67f5b9	ZA	-33.8372	20.2031	395	
+urn:catalog:MO:Tropicos:1165114	ZA				
+urn:catalog:MO:Tropicos:1165111	ZA				
+urn:catalog:MO:Tropicos:1165104	ZA				
+urn:catalog:MO:Tropicos:1165093	ZA			400	
+urn:catalog:MO:Tropicos:1165109	ZA			457.2	
+urn:catalog:MO:Tropicos:1165091	ZA				
+urn:catalog:MO:Tropicos:1165077	ZA			914.4	
+urn:catalog:MO:Tropicos:1165097	ZA				
+urn:catalog:MO:Tropicos:1165095	ZA				
+urn:catalog:MO:Tropicos:1165106	ZA				
+urn:catalog:MO:Tropicos:1165072	ZA				
+urn:catalog:MO:Tropicos:1165092	ZA			944.88	
+urn:catalog:MO:Tropicos:1165084	ZA				
+urn:catalog:MO:Tropicos:1165076	ZA				
+urn:catalog:MO:Tropicos:1165080	ZA				
+urn:catalog:MO:Tropicos:1165068	ZA			15.24	
+urn:catalog:MO:Tropicos:1165069	ZA				
+urn:catalog:MO:Tropicos:1165087	ZA			1005.84	
+urn:catalog:MO:Tropicos:1165070	ZA			50	
+urn:catalog:MO:Tropicos:1165062	ZA				
+urn:catalog:MO:Tropicos:1165061	ZA	-30.16666	17.95	1300	
+urn:catalog:MO:Tropicos:1165066	ZA				
+urn:catalog:MO:Tropicos:1165064	ZA				
+urn:catalog:MO:Tropicos:1165067	ZA			518.16	
+urn:catalog:MO:Tropicos:1165059	ZA			200	
+urn:catalog:MO:Tropicos:1165060	ZA				
+urn:catalog:MO:Tropicos:1165065	ZA				
+urn:catalog:MO:Tropicos:1164894	ZA				
+urn:catalog:MO:Tropicos:1164786	ZA			5	
+urn:catalog:MO:Tropicos:1164785	ZA			520	
+urn:catalog:MO:Tropicos:1164743	ZA				
+http://www.inaturalist.org/observations/2741096	ZA	-30.16639	17.789097		
+urn:catalog:SCHG:SCHG764	ZA	-34.197222	22.118056	100	
+SBT:H:L105	ZA				
+SBT:H:4.3.6.35	ZA				
+SBT:H:4.3.6.20	ZA				
+TU255594	ZA				
+	ZA	-29.74917	21.00389		
+	ZA	-33.50361	20.98583		
+	ZA	-29.74917	21.00389		
+	ZA	-33.50361	20.98583		
+	ZA	-33.50361	20.98583		
+	ZA	-32.17472	26.46		
+	ZA	-34.35722	18.4975		
+	ZA	-33.50361	20.98583		
+	ZA	-33.50361	20.98583		
+	ZA	-34.35722	18.4975		
+	ZA	-33.50361	20.98583		
+	ZA	-28.99861	25.0925		
+	ZA	-33.50361	20.98583		
+	ZA	-33.50361	20.98583		
+	ZA	-33.50361	20.98583		
+http://data.biodiversitydata.nl/naturalis/specimen/L.1584235	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/WAG.1427051	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/L.1595110	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/L.1584236	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/U.1147287	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/L.1584237	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/WAG.1427050	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/WAG.1427059	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/WAG.1427049	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/WAG.1427053	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/WAG.1427048	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/WAG.1427052	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/WAG.1427060	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/WAG.1427056	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/WAG.1427057	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/WAG.1923485	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/WAG.1427055	ZA				
+http://data.biodiversitydata.nl/naturalis/specimen/U.1138522	ZA				
+	ZA	-31.45	19.06667		
+S:VascularPlants:S13-34099	ZA				
+S:VascularPlants:S13-34100	ZA				
+S:VascularPlants:S13-34094	ZA				
+S:VascularPlants:S13-34093	ZA				
+S:VascularPlants:S13-34101	ZA				
+S:VascularPlants:S13-34096	ZA				
+S:VascularPlants:S13-34091	ZA				
+S:VascularPlants:S13-34090	ZA				
+S:VascularPlants:S12-9844	ZA	-30.2	17.97	900	
+S:VascularPlants:S10-16263	ZA				
+S:VascularPlants:S-PLE-E6996	ZA				
+http://id.snsb.info/snsb/collection/116485/175263/117551	ZA				
+http://id.snsb.info/snsb/collection/116484/175262/117550	ZA				
+http://id.snsb.info/snsb/collection/116483/175261/117549	ZA				
+http://id.snsb.info/snsb/collection/116479/175257/117545	ZA				
+http://www.inaturalist.org/observations/1072911	ZA	-30.11266	17.526847		
+http://specimens.kew.org/herbarium/K000410681	ZA				
+http://specimens.kew.org/herbarium/K000410680	ZA				
+http://specimens.kew.org/herbarium/K000410679	ZA				
+	ZA	-32.625	18.875		
+	ZA	-33.375	18.375		
+	ZA	-33.375	18.375		
+	ZA	-33.375	18.375		
+	ZA	-33.375	19.875		
+	ZA	-33.875	18.375		
+	ZA	-33.875	22.375		
+	ZA	-33.875	22.375		
+	ZA	-33.625	18.875		
+	ZA	-34.125	18.625		
+	ZA	-32.875	19.625		
+	ZA	-30.375	17.375		
+	ZA	-32.125	20.125		
+	ZA	-34.125	18.625		
+	ZA	-32.875	19.625		
+	ZA	-32.875	19.625		
+	ZA	-32.875	19.625		
+http://data.rbge.org.uk/herb/E00239913	ZA			305	
+http://data.rbge.org.uk/herb/E00239912	ZA			762	
+http://data.rbge.org.uk/herb/E00239911	ZA			1066.5	
+http://data.rbge.org.uk/herb/E00239914	ZA			457.5	
+http://data.rbge.org.uk/herb/E00239915	ZA			305	
+	ZA	-33.875	18.625		
+	ZA	-32.875	19.625		
+	ZA	-32.375	18.875		
+	ZA	-32.125	20.125		
+	ZA	-30.375	18.125		
+	ZA	-31.375	19.125		
+	ZA	-32.875	19.625		
+	ZA	-31.875	18.625		
+	ZA	-31.375	19.125		
+	ZA	-28.375	16.875		
+	ZA	-28.125	16.875		
+	ZA	-28.375	16.875		
+	ZA	-28.625	17.125		
+	ZA	-32.375	19.125		
+	ZA	-28.375	16.875		
+	ZA	-30.125	17.875		
+	ZA	-28.625	17.375		
+	ZA	-32.875	20.625		
+	ZA	-29.625	17.875		
+	ZA	-29.625	17.875		
+	ZA	-28.875	17.375		
+	ZA	-28.625	17.375		
+	ZA	-32.375	19.125		
+	ZA	-33.625	18.625		
+	ZA	-32.375	19.125		
+	ZA	-28.375	17.125		
+	ZA	-33.625	18.625		
+	ZA	-32.375	18.875		
+	ZA	-33.375	19.625		
+	ZA				
+	ZA	-32.625	20.125		
+	ZA	-30.375	18.125		
+	ZA	-28.375	17.125		
+	ZA	-28.375	17.125		
+	ZA	-30.125	17.875		
+	ZA	-31.625	19.125		
+	ZA	-33.875	18.875		
+	ZA	-33.625	19.375		
+	ZA				
+	ZA	-30.375	18.125		
+	ZA	-29.375	17.625		
+	ZA	-30.875	19.375		
+	ZA	-30.625	17.875		
+	ZA	-30.375	18.125		
+	ZA	-30.375	18.125		
+	ZA	-32.375	19.375		
+	ZA	-32.375	19.375		
+	ZA	-34.125	20.625		
+	ZA	-32.625	19.125		
+	ZA	-32.875	18.625		
+	ZA	-31.375	19.125		
+	ZA	-31.375	19.125		
+	ZA	-32.875	18.125		
+	ZA	-34.125	18.875		
+	ZA	-34.375	18.875		
+	ZA	-33.875	20.125		
+	ZA	-32.625	19.125		
+	ZA	-33.875	18.375		
+	ZA	-33.875	18.875		
+	ZA	-34.125	20.625		
+	ZA	-34.125	20.625		
+	ZA	-34.125	20.625		
+	ZA	-33.875	18.875		
+	ZA	-33.875	18.875		
+	ZA	-33.875	18.375		
+	ZA	-33.375	20.625		
+	ZA	-32.875	19.625		
+	ZA	-32.375	19.125		
+	ZA	-33.875	18.875		
+	ZA	-33.875	22.375		
+	ZA	-31.375	19.125		
+	ZA	-33.375	22.375		
+	ZA	-34.125	18.625		
+	ZA	-34.125	18.375		
+	ZA	-31.625	19.125		
+	ZA	-32.375	19.125		
+	ZA	-31.625	19.125		
+	ZA	-29.625	17.625		
+	ZA	-33.625	18.625		
+	ZA	-33.625	18.625		
+	ZA	-33.625	21.625		
+	ZA	-31.375	18.875		
+	ZA	-31.125	19.125		
+	ZA	-32.125	19.125		
+	ZA	-34.375	19.375		
+	ZA	-33.375	18.375		
+	ZA	-33.875	18.875		
+	ZA	-33.625	18.625		
+	ZA	-33.875	19.875		
+	ZA	-33.875	19.125		
+	ZA	-34.125	18.375		
+	ZA	-32.375	19.125		
+	ZA	-34.125	18.625		
+	ZA	-34.125	18.375		
+	ZA	-34.125	19.125		
+	ZA	-33.625	18.875		
+	ZA	-33.875	18.375		
+	ZA	-33.875	20.125		
+	ZA	-31.625	18.625		
+	ZA	-34.125	18.875		
+	ZA	-33.625	18.875		
+	ZA	-32.875	18.625		
+	ZA	-33.375	18.375		
+	ZA	-31.375	19.125		
+	ZA	-33.875	20.125		
+	ZA	-31.125	18.375		
+	ZA	-34.125	18.375		
+	ZA	-33.875	18.375		
+	ZA	-34.125	18.625		
+	ZA	-33.875	19.375		
+	ZA	-33.875	18.375		
+	ZA	-34.125	20.375		
+	ZA	-33.625	18.375		
+	ZA	-34.625	19.375		
+	ZA				
+	ZA	-34.375	18.375		
+	ZA	-33.875	18.375		
+	ZA	-32.375	19.125		
+	ZA	-33.125	18.125		
+	ZA	-33.375	19.625		
+	ZA	-34.125	18.625		
+	ZA	-33.125	19.375		
+	ZA	-32.625	19.125		
+	ZA	-32.875	18.625		
+	ZA	-33.625	22.625		
+	ZA	-32.875	19.125		
+	ZA	-34.875	19.625		
+	ZA				
+	ZA	-33.875	18.375		
+	ZA	-33.875	18.875		
+	ZA	-33.125	18.375		
+	ZA	-31.125	18.375		
+	ZA				
+	ZA	-33.375	18.375		
+	ZA				
+	ZA				
+	ZA	-32.125	19.125		
+	ZA	-33.375	19.125		
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA	-33.625	18.375		
+	ZA				
+	ZA	-32.125	18.875		
+	ZA	-32.125	18.875		
+	ZA	-34.125	21.625		
+	ZA	-34.125	18.875		
+	ZA	-34.125	20.625		
+	ZA	-32.125	19.125		
+	ZA				
+	ZA	-33.375	19.125		
+	ZA	-32.125	20.125		
+	ZA	-33.375	19.125		
+	ZA	-31.625	18.875		
+	ZA	-32.625	20.125		
+	ZA	-32.625	20.375		
+	ZA	-32.875	20.625		
+	ZA	-32.125	19.125		
+	ZA	-32.125	19.125		
+	ZA	-32.375	19.125		
+	ZA	-33.625	18.625		
+	ZA	-32.375	19.125		
+	ZA	-33.625	21.875		
+	ZA	-33.625	19.375		
+	ZA	-32.125	19.125		
+	ZA	-32.125	20.125		
+	ZA	-32.125	20.125		
+	ZA	-32.125	20.125		
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129248	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129255	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129261	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129286	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129291	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129226	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129229	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129230	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129242	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129250	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129254	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129265	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129277	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129247	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129244	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129293	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129296	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129228	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129233	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129238	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129239	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129241	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129253	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129272	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129275	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129278	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00482801	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00482802	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129269	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129273	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129225	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129232	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129236	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129237	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129243	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129249	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129264	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129268	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129274	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129289	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129276	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129227	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129295	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129231	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129245	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129280	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129284	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129263	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129279	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129290	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129292	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129246	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129257	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129258	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129260	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129267	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129285	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129288	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129281	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129294	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129224	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129252	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129259	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129262	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129266	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129271	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129282	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129256	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129234	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129235	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129240	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129251	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129283	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129270	ZA				
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p00129287	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA				
+	ZA	-31.625	18.875		
+	ZA	-33.875	18.375		
+UPS:BOT:V-133455	ZA				
+UPS:BOT:V-133439	ZA				
+UPS:BOT:V-133438	ZA				
+	ZA			158.5	
+	ZA			609.6	
+	ZA			762	
+	ZA			112.17	
+	ZA				
+	ZA			609.6	
+	ZA			1005.84	
+	ZA				
+	ZA	-34.19722	22.11806	30.48	
+	ZA				
