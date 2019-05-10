@@ -17,8 +17,14 @@ cor.env <- cor(env) #unconstrained and inertia is the same because it's an uncon
 
 summary(env.pca)
 
-biplot(env.pca, scaling = 1, choices = c(1, 2), main = "PCA - scaling 1")
+biplot(env.pca, scaling = 2, choices = c(1, 2), main = "PCA - scaling 1")
 #shortest arrow has the lowest value eg. in this case, pca
 
-
+#mites
+#dunes
 #do this on the doubs species data
+
+(env.pca$CA$eig[1]/sum(env.pca$CA$eig))*100 #tells the percentage influence the first PCA has
+
+
+  
