@@ -13,6 +13,7 @@ library(vegan)
 library(gclus)
 library(ape)
 library(FactoMineR)
+library(tidyverse)
 
 # Load additionnal functions
 # (files must be in the working directory)
