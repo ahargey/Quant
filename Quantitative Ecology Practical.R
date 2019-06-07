@@ -20,8 +20,6 @@ spa <- read_delim("Final Spatial.csv", ";",
                   escape_double = FALSE, trim_ws = TRUE)
 spe <- read_delim("Final Species.csv", ";", 
                   escape_double = FALSE, trim_ws = TRUE)
-spe_raw <- read_delim("Final Species.csv", ";", 
-                  escape_double = FALSE, trim_ws = TRUE)
 
 spe <- spe %>% mutate_all(funs(replace_na(.,0))) #turns NA values into 0 for the species table
 
@@ -48,10 +46,10 @@ env <- env[c(-5, -10, -16, -27), ]
 spa <- spa[c(-5, -10, -16, -27), ]
 
 env <- env %>% 
-  select(-X1)
+  select(-X1) #removing name column
 
 spe <- spe %>% 
-  select(-X1)
+  select(-X1) #removing name column
 
 #spatial plot of quadrats
 spa_plot <- ggplot(data = spa, aes(x = X, y = Y)) + #assigning a name to plot 
@@ -74,7 +72,8 @@ spe.cca <- cca(spe ~ ., env) #the period uses all columns in the environmental d
 summary(spe.cca)
 
 # The adjusted R2 --- the variance explained by the constrained axes
-(spe.cca.R2a <- RsquareAdj(spe.cca)$adj.r.squared)
+spe.cca.R2a <- RsquareAdj(spe.cca)$adj.r.squared
+spe.cca.R2a
 
 # Variance explained by full model
 sum(spe.cca$CCA$eig) / spe.cca$tot.chi * 100
